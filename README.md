@@ -1,3 +1,3 @@
-# libcharlie
+# libcharlie - C collection
 
-Library repository providing C utilities to other programs.
+C libraries, utilities, snippets, etc.
